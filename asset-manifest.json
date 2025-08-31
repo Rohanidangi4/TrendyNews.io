@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/trendyNews.io/static/css/main.5d7707ed.css",
-    "main.js": "/trendyNews.io/static/js/main.2f1111c6.js",
-    "static/js/453.27ce1282.chunk.js": "/trendyNews.io/static/js/453.27ce1282.chunk.js",
-    "static/media/logo.svg": "/trendyNews.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/trendyNews.io/index.html",
-    "main.5d7707ed.css.map": "/trendyNews.io/static/css/main.5d7707ed.css.map",
-    "main.2f1111c6.js.map": "/trendyNews.io/static/js/main.2f1111c6.js.map",
-    "453.27ce1282.chunk.js.map": "/trendyNews.io/static/js/453.27ce1282.chunk.js.map"
+    "main.css": "/TrendyNews.io/static/css/main.5d7707ed.css",
+    "main.js": "/TrendyNews.io/static/js/main.5247b14d.js",
+    "static/js/453.27ce1282.chunk.js": "/TrendyNews.io/static/js/453.27ce1282.chunk.js",
+    "static/media/logo.svg": "/TrendyNews.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/TrendyNews.io/index.html",
+    "main.5d7707ed.css.map": "/TrendyNews.io/static/css/main.5d7707ed.css.map",
+    "main.5247b14d.js.map": "/TrendyNews.io/static/js/main.5247b14d.js.map",
+    "453.27ce1282.chunk.js.map": "/TrendyNews.io/static/js/453.27ce1282.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5d7707ed.css",
-    "static/js/main.2f1111c6.js"
+    "static/js/main.5247b14d.js"
   ]
 }
